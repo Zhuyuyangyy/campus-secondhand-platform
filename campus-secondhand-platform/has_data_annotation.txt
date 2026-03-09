@@ -1,0 +1,6 @@
+src\main\java\com\campus\secondhand\dto\LoginRequest.java:8:@Data
+src\main\java\com\campus\secondhand\dto\RegisterRequest.java:8:@Data
+src\main\java\com\campus\secondhand\entity\Goods.java:12:@Data
+src\main\java\com\campus\secondhand\entity\Order.java:12:@Data
+src\main\java\com\campus\secondhand\entity\User.java:11:@Data
+src\main\java\com\campus\secondhand\response\Result.java:8:@Data
